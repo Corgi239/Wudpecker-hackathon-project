@@ -1,0 +1,591 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "Welcome to another Mandarin Corner video. For more advanced students, you can watch this video without English subtitles at mandarincorner dot org. To access our premium content, which includes downloads of all of videos. Audio files. PDFs, and transcripts in different versions such as with English. Without English, hands only, and with traditional characters, as well as being able to draw our content with flash cards, including our HSK sentences, survival Chinese sentences, and Chinese characters. Consider becoming a lifetime member with just a 1 time donation. Links to donate are below. To your function."
+      }
+    ],
+    "speaker_labels": {
+      "speakers": 1,
+      "segments": [
+        {
+          "start_time": "6.84",
+          "end_time": "147.28",
+          "speaker_label": "spk_0",
+          "items": [
+            {
+              "start_time": "6.84",
+              "end_time": "7.34",
+              "speaker_label": "spk_0",
+              "content": "Welcome"
+            },
+            {
+              "start_time": "7.40",
+              "end_time": "7.72",
+              "speaker_label": "spk_0",
+              "content": "to"
+            },
+            {
+              "start_time": "7.72",
+              "end_time": "8.20",
+              "speaker_label": "spk_0",
+              "content": "another"
+            },
+            {
+              "start_time": "8.20",
+              "end_time": "8.68",
+              "speaker_label": "spk_0",
+              "content": "Mandarin"
+            },
+            {
+              "start_time": "8.68",
+              "end_time": "9.16",
+              "speaker_label": "spk_0",
+              "content": "Corner"
+            },
+            {
+              "start_time": "9.16",
+              "end_time": "9.66",
+              "speaker_label": "spk_0",
+              "content": "video."
+            },
+            {
+              "start_time": "10.22",
+              "end_time": "10.46",
+              "speaker_label": "spk_0",
+              "content": "For"
+            },
+            {
+              "start_time": "10.46",
+              "end_time": "10.70",
+              "speaker_label": "spk_0",
+              "content": "more"
+            },
+            {
+              "start_time": "10.70",
+              "end_time": "11.20",
+              "speaker_label": "spk_0",
+              "content": "advanced"
+            },
+            {
+              "start_time": "11.22",
+              "end_time": "11.72",
+              "speaker_label": "spk_0",
+              "content": "students,"
+            },
+            {
+              "start_time": "12.06",
+              "end_time": "12.22",
+              "speaker_label": "spk_0",
+              "content": "you"
+            },
+            {
+              "start_time": "12.22",
+              "end_time": "12.46",
+              "speaker_label": "spk_0",
+              "content": "can"
+            },
+            {
+              "start_time": "12.46",
+              "end_time": "12.74",
+              "speaker_label": "spk_0",
+              "content": "watch"
+            },
+            {
+              "start_time": "12.74",
+              "end_time": "12.98",
+              "speaker_label": "spk_0",
+              "content": "this"
+            },
+            {
+              "start_time": "12.98",
+              "end_time": "13.46",
+              "speaker_label": "spk_0",
+              "content": "video"
+            },
+            {
+              "start_time": "13.46",
+              "end_time": "13.96",
+              "speaker_label": "spk_0",
+              "content": "without"
+            },
+            {
+              "start_time": "13.98",
+              "end_time": "14.42",
+              "speaker_label": "spk_0",
+              "content": "English"
+            },
+            {
+              "start_time": "14.42",
+              "end_time": "14.92",
+              "speaker_label": "spk_0",
+              "content": "subtitles"
+            },
+            {
+              "start_time": "15.38",
+              "end_time": "15.62",
+              "speaker_label": "spk_0",
+              "content": "at"
+            },
+            {
+              "start_time": "15.62",
+              "end_time": "16.12",
+              "speaker_label": "spk_0",
+              "content": "mandarincorner"
+            },
+            {
+              "start_time": "16.58",
+              "end_time": "16.86",
+              "speaker_label": "spk_0",
+              "content": "dot"
+            },
+            {
+              "start_time": "16.86",
+              "end_time": "17.36",
+              "speaker_label": "spk_0",
+              "content": "org."
+            },
+            {
+              "start_time": "18.24",
+              "end_time": "18.44",
+              "speaker_label": "spk_0",
+              "content": "To"
+            },
+            {
+              "start_time": "18.44",
+              "end_time": "18.94",
+              "speaker_label": "spk_0",
+              "content": "access"
+            },
+            {
+              "start_time": "19.00",
+              "end_time": "19.28",
+              "speaker_label": "spk_0",
+              "content": "our"
+            },
+            {
+              "start_time": "19.28",
+              "end_time": "19.76",
+              "speaker_label": "spk_0",
+              "content": "premium"
+            },
+            {
+              "start_time": "19.76",
+              "end_time": "20.26",
+              "speaker_label": "spk_0",
+              "content": "content,"
+            },
+            {
+              "start_time": "20.36",
+              "end_time": "20.64",
+              "speaker_label": "spk_0",
+              "content": "which"
+            },
+            {
+              "start_time": "20.64",
+              "end_time": "21.14",
+              "speaker_label": "spk_0",
+              "content": "includes"
+            },
+            {
+              "start_time": "21.16",
+              "end_time": "21.66",
+              "speaker_label": "spk_0",
+              "content": "downloads"
+            },
+            {
+              "start_time": "21.92",
+              "end_time": "22.20",
+              "speaker_label": "spk_0",
+              "content": "of"
+            },
+            {
+              "start_time": "22.20",
+              "end_time": "22.68",
+              "speaker_label": "spk_0",
+              "content": "all"
+            },
+            {
+              "start_time": "22.68",
+              "end_time": "22.88",
+              "speaker_label": "spk_0",
+              "content": "of"
+            },
+            {
+              "start_time": "22.88",
+              "end_time": "23.38",
+              "speaker_label": "spk_0",
+              "content": "videos."
+            },
+            {
+              "start_time": "24.24",
+              "end_time": "24.68",
+              "speaker_label": "spk_0",
+              "content": "Audio"
+            },
+            {
+              "start_time": "24.68",
+              "end_time": "25.18",
+              "speaker_label": "spk_0",
+              "content": "files."
+            },
+            {
+              "start_time": "25.94",
+              "end_time": "26.44",
+              "speaker_label": "spk_0",
+              "content": "PDFs,"
+            },
+            {
+              "start_time": "27.38",
+              "end_time": "27.78",
+              "speaker_label": "spk_0",
+              "content": "and"
+            },
+            {
+              "start_time": "27.78",
+              "end_time": "28.28",
+              "speaker_label": "spk_0",
+              "content": "transcripts"
+            },
+            {
+              "start_time": "28.70",
+              "end_time": "28.94",
+              "speaker_label": "spk_0",
+              "content": "in"
+            },
+            {
+              "start_time": "28.94",
+              "end_time": "29.42",
+              "speaker_label": "spk_0",
+              "content": "different"
+            },
+            {
+              "start_time": "29.42",
+              "end_time": "29.92",
+              "speaker_label": "spk_0",
+              "content": "versions"
+            },
+            {
+              "start_time": "30.46",
+              "end_time": "30.78",
+              "speaker_label": "spk_0",
+              "content": "such"
+            },
+            {
+              "start_time": "30.78",
+              "end_time": "31.26",
+              "speaker_label": "spk_0",
+              "content": "as"
+            },
+            {
+              "start_time": "31.26",
+              "end_time": "31.58",
+              "speaker_label": "spk_0",
+              "content": "with"
+            },
+            {
+              "start_time": "31.58",
+              "end_time": "32.08",
+              "speaker_label": "spk_0",
+              "content": "English."
+            },
+            {
+              "start_time": "32.94",
+              "end_time": "33.34",
+              "speaker_label": "spk_0",
+              "content": "Without"
+            },
+            {
+              "start_time": "33.34",
+              "end_time": "33.84",
+              "speaker_label": "spk_0",
+              "content": "English,"
+            },
+            {
+              "start_time": "34.79",
+              "end_time": "35.29",
+              "speaker_label": "spk_0",
+              "content": "hands"
+            },
+            {
+              "start_time": "35.31",
+              "end_time": "35.81",
+              "speaker_label": "spk_0",
+              "content": "only,"
+            },
+            {
+              "start_time": "36.47",
+              "end_time": "36.95",
+              "speaker_label": "spk_0",
+              "content": "and"
+            },
+            {
+              "start_time": "36.95",
+              "end_time": "37.23",
+              "speaker_label": "spk_0",
+              "content": "with"
+            },
+            {
+              "start_time": "37.23",
+              "end_time": "37.73",
+              "speaker_label": "spk_0",
+              "content": "traditional"
+            },
+            {
+              "start_time": "37.87",
+              "end_time": "38.37",
+              "speaker_label": "spk_0",
+              "content": "characters,"
+            },
+            {
+              "start_time": "39.07",
+              "end_time": "39.31",
+              "speaker_label": "spk_0",
+              "content": "as"
+            },
+            {
+              "start_time": "39.31",
+              "end_time": "39.55",
+              "speaker_label": "spk_0",
+              "content": "well"
+            },
+            {
+              "start_time": "39.55",
+              "end_time": "39.83",
+              "speaker_label": "spk_0",
+              "content": "as"
+            },
+            {
+              "start_time": "39.83",
+              "end_time": "40.15",
+              "speaker_label": "spk_0",
+              "content": "being"
+            },
+            {
+              "start_time": "40.15",
+              "end_time": "40.65",
+              "speaker_label": "spk_0",
+              "content": "able"
+            },
+            {
+              "start_time": "40.67",
+              "end_time": "40.83",
+              "speaker_label": "spk_0",
+              "content": "to"
+            },
+            {
+              "start_time": "40.83",
+              "end_time": "41.15",
+              "speaker_label": "spk_0",
+              "content": "draw"
+            },
+            {
+              "start_time": "41.15",
+              "end_time": "41.39",
+              "speaker_label": "spk_0",
+              "content": "our"
+            },
+            {
+              "start_time": "41.39",
+              "end_time": "41.89",
+              "speaker_label": "spk_0",
+              "content": "content"
+            },
+            {
+              "start_time": "42.03",
+              "end_time": "42.31",
+              "speaker_label": "spk_0",
+              "content": "with"
+            },
+            {
+              "start_time": "42.31",
+              "end_time": "42.76",
+              "speaker_label": "spk_0",
+              "content": "flash"
+            },
+            {
+              "start_time": "42.79",
+              "end_time": "43.29",
+              "speaker_label": "spk_0",
+              "content": "cards,"
+            },
+            {
+              "start_time": "43.75",
+              "end_time": "44.25",
+              "speaker_label": "spk_0",
+              "content": "including"
+            },
+            {
+              "start_time": "44.47",
+              "end_time": "44.71",
+              "speaker_label": "spk_0",
+              "content": "our"
+            },
+            {
+              "start_time": "44.71",
+              "end_time": "45.21",
+              "speaker_label": "spk_0",
+              "content": "HSK"
+            },
+            {
+              "start_time": "45.39",
+              "end_time": "45.89",
+              "speaker_label": "spk_0",
+              "content": "sentences,"
+            },
+            {
+              "start_time": "47.35",
+              "end_time": "47.85",
+              "speaker_label": "spk_0",
+              "content": "survival"
+            },
+            {
+              "start_time": "47.95",
+              "end_time": "48.43",
+              "speaker_label": "spk_0",
+              "content": "Chinese"
+            },
+            {
+              "start_time": "48.43",
+              "end_time": "48.93",
+              "speaker_label": "spk_0",
+              "content": "sentences,"
+            },
+            {
+              "start_time": "50.59",
+              "end_time": "50.99",
+              "speaker_label": "spk_0",
+              "content": "and"
+            },
+            {
+              "start_time": "50.99",
+              "end_time": "51.49",
+              "speaker_label": "spk_0",
+              "content": "Chinese"
+            },
+            {
+              "start_time": "51.51",
+              "end_time": "52.01",
+              "speaker_label": "spk_0",
+              "content": "characters."
+            },
+            {
+              "start_time": "53.62",
+              "end_time": "54.12",
+              "speaker_label": "spk_0",
+              "content": "Consider"
+            },
+            {
+              "start_time": "54.18",
+              "end_time": "54.68",
+              "speaker_label": "spk_0",
+              "content": "becoming"
+            },
+            {
+              "start_time": "54.82",
+              "end_time": "54.98",
+              "speaker_label": "spk_0",
+              "content": "a"
+            },
+            {
+              "start_time": "54.98",
+              "end_time": "55.48",
+              "speaker_label": "spk_0",
+              "content": "lifetime"
+            },
+            {
+              "start_time": "55.66",
+              "end_time": "56.16",
+              "speaker_label": "spk_0",
+              "content": "member"
+            },
+            {
+              "start_time": "56.42",
+              "end_time": "56.74",
+              "speaker_label": "spk_0",
+              "content": "with"
+            },
+            {
+              "start_time": "56.74",
+              "end_time": "57.22",
+              "speaker_label": "spk_0",
+              "content": "just"
+            },
+            {
+              "start_time": "57.22",
+              "end_time": "57.38",
+              "speaker_label": "spk_0",
+              "content": "a"
+            },
+            {
+              "start_time": "57.38",
+              "end_time": "57.70",
+              "speaker_label": "spk_0",
+              "content": "1"
+            },
+            {
+              "start_time": "57.70",
+              "end_time": "58.06",
+              "speaker_label": "spk_0",
+              "content": "time"
+            },
+            {
+              "start_time": "58.06",
+              "end_time": "58.56",
+              "speaker_label": "spk_0",
+              "content": "donation."
+            },
+            {
+              "start_time": "59.82",
+              "end_time": "60.18",
+              "speaker_label": "spk_0",
+              "content": "Links"
+            },
+            {
+              "start_time": "60.18",
+              "end_time": "60.34",
+              "speaker_label": "spk_0",
+              "content": "to"
+            },
+            {
+              "start_time": "60.34",
+              "end_time": "60.84",
+              "speaker_label": "spk_0",
+              "content": "donate"
+            },
+            {
+              "start_time": "61.06",
+              "end_time": "61.22",
+              "speaker_label": "spk_0",
+              "content": "are"
+            },
+            {
+              "start_time": "61.22",
+              "end_time": "61.72",
+              "speaker_label": "spk_0",
+              "content": "below."
+            },
+            {
+              "start_time": "146.26",
+              "end_time": "146.46",
+              "speaker_label": "spk_0",
+              "content": "To"
+            },
+            {
+              "start_time": "146.46",
+              "end_time": "146.78",
+              "speaker_label": "spk_0",
+              "content": "your"
+            },
+            {
+              "start_time": "146.78",
+              "end_time": "147.28",
+              "speaker_label": "spk_0",
+              "content": "function."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

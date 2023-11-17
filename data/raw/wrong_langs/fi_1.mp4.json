@@ -1,0 +1,33 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "Okay. 200"
+      }
+    ],
+    "speaker_labels": {
+      "speakers": 1,
+      "segments": [
+        {
+          "start_time": "527.29",
+          "end_time": "1256.45",
+          "speaker_label": "spk_0",
+          "items": [
+            {
+              "start_time": "527.29",
+              "end_time": "527.79",
+              "speaker_label": "spk_0",
+              "content": "Okay."
+            },
+            {
+              "start_time": "1251.79",
+              "end_time": "1256.45",
+              "speaker_label": "spk_0",
+              "content": "200"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

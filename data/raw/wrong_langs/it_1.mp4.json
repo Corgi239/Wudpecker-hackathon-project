@@ -1,0 +1,285 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "I propulate. Yes. Wow. Look at the atom. Look at that. Let's see. Thank you. So Yeah. Nobody No spoiler. No spoiler, no spoiler. I mean, technology. And before it being solar, cheap in wavy, music in wavy. As we mentioned, topper. Yes, sir."
+      }
+    ],
+    "speaker_labels": {
+      "speakers": 1,
+      "segments": [
+        {
+          "start_time": "5.20",
+          "end_time": "1337.50",
+          "speaker_label": "spk_0",
+          "items": [
+            {
+              "start_time": "5.20",
+              "end_time": "5.36",
+              "speaker_label": "spk_0",
+              "content": "I"
+            },
+            {
+              "start_time": "5.36",
+              "end_time": "5.86",
+              "speaker_label": "spk_0",
+              "content": "propulate."
+            },
+            {
+              "start_time": "80.66",
+              "end_time": "81.16",
+              "speaker_label": "spk_0",
+              "content": "Yes."
+            },
+            {
+              "start_time": "123.37",
+              "end_time": "123.53",
+              "speaker_label": "spk_0",
+              "content": "Wow."
+            },
+            {
+              "start_time": "123.53",
+              "end_time": "124.03",
+              "speaker_label": "spk_0",
+              "content": "Look"
+            },
+            {
+              "start_time": "124.25",
+              "end_time": "124.37",
+              "speaker_label": "spk_0",
+              "content": "at"
+            },
+            {
+              "start_time": "124.37",
+              "end_time": "124.53",
+              "speaker_label": "spk_0",
+              "content": "the"
+            },
+            {
+              "start_time": "124.53",
+              "end_time": "124.89",
+              "speaker_label": "spk_0",
+              "content": "atom."
+            },
+            {
+              "start_time": "124.89",
+              "end_time": "125.05",
+              "speaker_label": "spk_0",
+              "content": "Look"
+            },
+            {
+              "start_time": "125.05",
+              "end_time": "125.21",
+              "speaker_label": "spk_0",
+              "content": "at"
+            },
+            {
+              "start_time": "125.21",
+              "end_time": "125.53",
+              "speaker_label": "spk_0",
+              "content": "that."
+            },
+            {
+              "start_time": "125.53",
+              "end_time": "125.77",
+              "speaker_label": "spk_0",
+              "content": "Let's"
+            },
+            {
+              "start_time": "125.77",
+              "end_time": "126.27",
+              "speaker_label": "spk_0",
+              "content": "see."
+            },
+            {
+              "start_time": "126.97",
+              "end_time": "127.17",
+              "speaker_label": "spk_0",
+              "content": "Thank"
+            },
+            {
+              "start_time": "127.17",
+              "end_time": "127.67",
+              "speaker_label": "spk_0",
+              "content": "you."
+            },
+            {
+              "start_time": "128.41",
+              "end_time": "128.91",
+              "speaker_label": "spk_0",
+              "content": "So"
+            },
+            {
+              "start_time": "233.04",
+              "end_time": "233.54",
+              "speaker_label": "spk_0",
+              "content": "Yeah."
+            },
+            {
+              "start_time": "656.99",
+              "end_time": "657.49",
+              "speaker_label": "spk_0",
+              "content": "Nobody"
+            },
+            {
+              "start_time": "835.58",
+              "end_time": "835.62",
+              "speaker_label": "spk_0",
+              "content": "No"
+            },
+            {
+              "start_time": "835.62",
+              "end_time": "835.66",
+              "speaker_label": "spk_0",
+              "content": "spoiler."
+            },
+            {
+              "start_time": "835.66",
+              "end_time": "835.82",
+              "speaker_label": "spk_0",
+              "content": "No"
+            },
+            {
+              "start_time": "835.82",
+              "end_time": "836.32",
+              "speaker_label": "spk_0",
+              "content": "spoiler,"
+            },
+            {
+              "start_time": "836.46",
+              "end_time": "836.74",
+              "speaker_label": "spk_0",
+              "content": "no"
+            },
+            {
+              "start_time": "836.74",
+              "end_time": "837.24",
+              "speaker_label": "spk_0",
+              "content": "spoiler."
+            },
+            {
+              "start_time": "838.50",
+              "end_time": "838.75",
+              "speaker_label": "spk_0",
+              "content": "I"
+            },
+            {
+              "start_time": "838.75",
+              "end_time": "839.25",
+              "speaker_label": "spk_0",
+              "content": "mean,"
+            },
+            {
+              "start_time": "1045.38",
+              "end_time": "1045.88",
+              "speaker_label": "spk_0",
+              "content": "technology."
+            },
+            {
+              "start_time": "1047.94",
+              "end_time": "1048.44",
+              "speaker_label": "spk_0",
+              "content": "And"
+            },
+            {
+              "start_time": "1049.70",
+              "end_time": "1050.10",
+              "speaker_label": "spk_0",
+              "content": "before"
+            },
+            {
+              "start_time": "1050.10",
+              "end_time": "1050.22",
+              "speaker_label": "spk_0",
+              "content": "it"
+            },
+            {
+              "start_time": "1050.22",
+              "end_time": "1050.70",
+              "speaker_label": "spk_0",
+              "content": "being"
+            },
+            {
+              "start_time": "1050.70",
+              "end_time": "1051.20",
+              "speaker_label": "spk_0",
+              "content": "solar,"
+            },
+            {
+              "start_time": "1079.14",
+              "end_time": "1079.42",
+              "speaker_label": "spk_0",
+              "content": "cheap"
+            },
+            {
+              "start_time": "1079.42",
+              "end_time": "1079.58",
+              "speaker_label": "spk_0",
+              "content": "in"
+            },
+            {
+              "start_time": "1079.58",
+              "end_time": "1080.08",
+              "speaker_label": "spk_0",
+              "content": "wavy,"
+            },
+            {
+              "start_time": "1080.78",
+              "end_time": "1081.18",
+              "speaker_label": "spk_0",
+              "content": "music"
+            },
+            {
+              "start_time": "1081.18",
+              "end_time": "1081.38",
+              "speaker_label": "spk_0",
+              "content": "in"
+            },
+            {
+              "start_time": "1081.38",
+              "end_time": "1081.88",
+              "speaker_label": "spk_0",
+              "content": "wavy."
+            },
+            {
+              "start_time": "1086.82",
+              "end_time": "1087.02",
+              "speaker_label": "spk_0",
+              "content": "As"
+            },
+            {
+              "start_time": "1087.02",
+              "end_time": "1087.18",
+              "speaker_label": "spk_0",
+              "content": "we"
+            },
+            {
+              "start_time": "1087.18",
+              "end_time": "1087.40",
+              "speaker_label": "spk_0",
+              "content": "mentioned,"
+            },
+            {
+              "start_time": "1119.13",
+              "end_time": "1119.63",
+              "speaker_label": "spk_0",
+              "content": "topper."
+            },
+            {
+              "start_time": "1336.68",
+              "end_time": "1337.00",
+              "speaker_label": "spk_0",
+              "content": "Yes,"
+            },
+            {
+              "start_time": "1337.00",
+              "end_time": "1337.50",
+              "speaker_label": "spk_0",
+              "content": "sir."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

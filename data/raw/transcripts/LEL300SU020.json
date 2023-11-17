@@ -1,0 +1,550 @@
+{
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "RESTRICTED RESTRICTED RESTRICTED yeah RESTRICTED you're welcome RESTRICTED RESTRICTED (your) mic's not on RESTRICTED yeah um i'm gonna give you the short version we have a little thing that we normally read but um this class is being recorded and if anybody, has any objections or any questions about the project that i'm working on, feel free to ask me about it after class. does anybody object? okay good, thanks. RESTRICTED stars RESTRICTED "
+            }
+        ],
+        "speaker_labels": {
+            "speakers": 5,
+            "segments": [
+                {
+                    "start_time": "268.13",
+                    "end_time": "268.43",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "268.13",
+                            "end_time": "268.43",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "268.43",
+                    "end_time": "268.91",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "268.43",
+                            "end_time": "268.91",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "268.91",
+                    "end_time": "269.34",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "268.91",
+                            "end_time": "269.34",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "269.34",
+                    "end_time": "269.46",
+                    "speaker_label": "spk_1",
+                    "items": [
+                        {
+                            "start_time": "269.34",
+                            "end_time": "269.46",
+                            "speaker_label": "spk_1",
+                            "content": "yeah"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "269.46",
+                    "end_time": "269.93",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "269.46",
+                            "end_time": "269.93",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "269.93",
+                    "end_time": "270.19",
+                    "speaker_label": "spk_1",
+                    "items": [
+                        {
+                            "start_time": "269.93",
+                            "end_time": "270.05",
+                            "speaker_label": "spk_1",
+                            "content": "you're"
+                        },
+                        {
+                            "start_time": "270.05",
+                            "end_time": "270.19",
+                            "speaker_label": "spk_1",
+                            "content": "welcome"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "270.19",
+                    "end_time": "270.32",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "270.19",
+                            "end_time": "270.32",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "270.32",
+                    "end_time": "270.71",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "270.32",
+                            "end_time": "270.71",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "270.71",
+                    "end_time": "271.78",
+                    "speaker_label": "spk_2",
+                    "items": [
+                        {
+                            "start_time": "270.71",
+                            "end_time": "271.07",
+                            "speaker_label": "spk_2",
+                            "content": "(your)"
+                        },
+                        {
+                            "start_time": "271.07",
+                            "end_time": "271.22",
+                            "speaker_label": "spk_2",
+                            "content": "mic's"
+                        },
+                        {
+                            "start_time": "271.22",
+                            "end_time": "271.53",
+                            "speaker_label": "spk_2",
+                            "content": "not"
+                        },
+                        {
+                            "start_time": "271.53",
+                            "end_time": "271.78",
+                            "speaker_label": "spk_2",
+                            "content": "on"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "271.78",
+                    "end_time": "272.03",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "271.78",
+                            "end_time": "272.03",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "272.03",
+                    "end_time": "289.36",
+                    "speaker_label": "spk_3",
+                    "items": [
+                        {
+                            "start_time": "272.03",
+                            "end_time": "272.36",
+                            "speaker_label": "spk_3",
+                            "content": "yeah"
+                        },
+                        {
+                            "start_time": "272.36",
+                            "end_time": "272.81",
+                            "speaker_label": "spk_3",
+                            "content": "um"
+                        },
+                        {
+                            "start_time": "272.81",
+                            "end_time": "272.94",
+                            "speaker_label": "spk_3",
+                            "content": "i'm"
+                        },
+                        {
+                            "start_time": "272.94",
+                            "end_time": "273.24",
+                            "speaker_label": "spk_3",
+                            "content": "gonna"
+                        },
+                        {
+                            "start_time": "273.24",
+                            "end_time": "273.74",
+                            "speaker_label": "spk_3",
+                            "content": "give"
+                        },
+                        {
+                            "start_time": "273.74",
+                            "end_time": "274.0",
+                            "speaker_label": "spk_3",
+                            "content": "you"
+                        },
+                        {
+                            "start_time": "274.0",
+                            "end_time": "274.35",
+                            "speaker_label": "spk_3",
+                            "content": "the"
+                        },
+                        {
+                            "start_time": "274.35",
+                            "end_time": "274.45",
+                            "speaker_label": "spk_3",
+                            "content": "short"
+                        },
+                        {
+                            "start_time": "274.45",
+                            "end_time": "274.95",
+                            "speaker_label": "spk_3",
+                            "content": "version"
+                        },
+                        {
+                            "start_time": "274.95",
+                            "end_time": "275.08",
+                            "speaker_label": "spk_3",
+                            "content": "we"
+                        },
+                        {
+                            "start_time": "275.08",
+                            "end_time": "275.26",
+                            "speaker_label": "spk_3",
+                            "content": "have"
+                        },
+                        {
+                            "start_time": "275.26",
+                            "end_time": "275.42",
+                            "speaker_label": "spk_3",
+                            "content": "a"
+                        },
+                        {
+                            "start_time": "275.42",
+                            "end_time": "275.63",
+                            "speaker_label": "spk_3",
+                            "content": "little"
+                        },
+                        {
+                            "start_time": "275.63",
+                            "end_time": "275.8",
+                            "speaker_label": "spk_3",
+                            "content": "thing"
+                        },
+                        {
+                            "start_time": "275.8",
+                            "end_time": "276.29",
+                            "speaker_label": "spk_3",
+                            "content": "that"
+                        },
+                        {
+                            "start_time": "276.29",
+                            "end_time": "276.69",
+                            "speaker_label": "spk_3",
+                            "content": "we"
+                        },
+                        {
+                            "start_time": "276.69",
+                            "end_time": "277.13",
+                            "speaker_label": "spk_3",
+                            "content": "normally"
+                        },
+                        {
+                            "start_time": "277.13",
+                            "end_time": "277.62",
+                            "speaker_label": "spk_3",
+                            "content": "read"
+                        },
+                        {
+                            "start_time": "277.62",
+                            "end_time": "277.91",
+                            "speaker_label": "spk_3",
+                            "content": "but"
+                        },
+                        {
+                            "start_time": "277.91",
+                            "end_time": "278.18",
+                            "speaker_label": "spk_3",
+                            "content": "um"
+                        },
+                        {
+                            "start_time": "278.18",
+                            "end_time": "278.65",
+                            "speaker_label": "spk_3",
+                            "content": "this"
+                        },
+                        {
+                            "start_time": "278.65",
+                            "end_time": "279.0",
+                            "speaker_label": "spk_3",
+                            "content": "class"
+                        },
+                        {
+                            "start_time": "279.0",
+                            "end_time": "279.41",
+                            "speaker_label": "spk_3",
+                            "content": "is"
+                        },
+                        {
+                            "start_time": "279.41",
+                            "end_time": "279.65",
+                            "speaker_label": "spk_3",
+                            "content": "being"
+                        },
+                        {
+                            "start_time": "279.65",
+                            "end_time": "279.86",
+                            "speaker_label": "spk_3",
+                            "content": "recorded"
+                        },
+                        {
+                            "start_time": "279.86",
+                            "end_time": "280.35",
+                            "speaker_label": "spk_3",
+                            "content": "and"
+                        },
+                        {
+                            "start_time": "280.35",
+                            "end_time": "280.5",
+                            "speaker_label": "spk_3",
+                            "content": "if"
+                        },
+                        {
+                            "start_time": "280.5",
+                            "end_time": "280.61",
+                            "speaker_label": "spk_3",
+                            "content": "anybody,"
+                        },
+                        {
+                            "start_time": "280.61",
+                            "end_time": "280.83",
+                            "speaker_label": "spk_3",
+                            "content": "has"
+                        },
+                        {
+                            "start_time": "280.83",
+                            "end_time": "281.0",
+                            "speaker_label": "spk_3",
+                            "content": "any"
+                        },
+                        {
+                            "start_time": "281.0",
+                            "end_time": "281.27",
+                            "speaker_label": "spk_3",
+                            "content": "objections"
+                        },
+                        {
+                            "start_time": "281.27",
+                            "end_time": "281.65",
+                            "speaker_label": "spk_3",
+                            "content": "or"
+                        },
+                        {
+                            "start_time": "281.65",
+                            "end_time": "282.05",
+                            "speaker_label": "spk_3",
+                            "content": "any"
+                        },
+                        {
+                            "start_time": "282.05",
+                            "end_time": "282.15",
+                            "speaker_label": "spk_3",
+                            "content": "questions"
+                        },
+                        {
+                            "start_time": "282.15",
+                            "end_time": "282.62",
+                            "speaker_label": "spk_3",
+                            "content": "about"
+                        },
+                        {
+                            "start_time": "282.62",
+                            "end_time": "282.8",
+                            "speaker_label": "spk_3",
+                            "content": "the"
+                        },
+                        {
+                            "start_time": "282.8",
+                            "end_time": "283.1",
+                            "speaker_label": "spk_3",
+                            "content": "project"
+                        },
+                        {
+                            "start_time": "283.1",
+                            "end_time": "283.23",
+                            "speaker_label": "spk_3",
+                            "content": "that"
+                        },
+                        {
+                            "start_time": "283.23",
+                            "end_time": "283.52",
+                            "speaker_label": "spk_3",
+                            "content": "i'm"
+                        },
+                        {
+                            "start_time": "283.52",
+                            "end_time": "283.63",
+                            "speaker_label": "spk_3",
+                            "content": "working"
+                        },
+                        {
+                            "start_time": "283.63",
+                            "end_time": "283.96",
+                            "speaker_label": "spk_3",
+                            "content": "on,"
+                        },
+                        {
+                            "start_time": "283.96",
+                            "end_time": "284.12",
+                            "speaker_label": "spk_3",
+                            "content": "feel"
+                        },
+                        {
+                            "start_time": "284.12",
+                            "end_time": "284.23",
+                            "speaker_label": "spk_3",
+                            "content": "free"
+                        },
+                        {
+                            "start_time": "284.23",
+                            "end_time": "284.58",
+                            "speaker_label": "spk_3",
+                            "content": "to"
+                        },
+                        {
+                            "start_time": "284.58",
+                            "end_time": "284.82",
+                            "speaker_label": "spk_3",
+                            "content": "ask"
+                        },
+                        {
+                            "start_time": "284.82",
+                            "end_time": "285.3",
+                            "speaker_label": "spk_3",
+                            "content": "me"
+                        },
+                        {
+                            "start_time": "285.3",
+                            "end_time": "285.74",
+                            "speaker_label": "spk_3",
+                            "content": "about"
+                        },
+                        {
+                            "start_time": "285.74",
+                            "end_time": "286.11",
+                            "speaker_label": "spk_3",
+                            "content": "it"
+                        },
+                        {
+                            "start_time": "286.11",
+                            "end_time": "286.43",
+                            "speaker_label": "spk_3",
+                            "content": "after"
+                        },
+                        {
+                            "start_time": "286.43",
+                            "end_time": "286.85",
+                            "speaker_label": "spk_3",
+                            "content": "class."
+                        },
+                        {
+                            "start_time": "286.85",
+                            "end_time": "287.24",
+                            "speaker_label": "spk_3",
+                            "content": "does"
+                        },
+                        {
+                            "start_time": "287.24",
+                            "end_time": "287.56",
+                            "speaker_label": "spk_3",
+                            "content": "anybody"
+                        },
+                        {
+                            "start_time": "287.56",
+                            "end_time": "288.04",
+                            "speaker_label": "spk_3",
+                            "content": "object?"
+                        },
+                        {
+                            "start_time": "288.04",
+                            "end_time": "288.43",
+                            "speaker_label": "spk_3",
+                            "content": "okay"
+                        },
+                        {
+                            "start_time": "288.43",
+                            "end_time": "288.86",
+                            "speaker_label": "spk_3",
+                            "content": "good,"
+                        },
+                        {
+                            "start_time": "288.86",
+                            "end_time": "289.36",
+                            "speaker_label": "spk_3",
+                            "content": "thanks."
+                        }
+                    ]
+                },
+                {
+                    "start_time": "289.36",
+                    "end_time": "289.59",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "289.36",
+                            "end_time": "289.59",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "289.59",
+                    "end_time": "289.72",
+                    "speaker_label": "spk_4",
+                    "items": [
+                        {
+                            "start_time": "289.59",
+                            "end_time": "289.72",
+                            "speaker_label": "spk_4",
+                            "content": "stars"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "289.72",
+                    "end_time": "290.18",
+                    "speaker_label": "spk_0",
+                    "items": [
+                        {
+                            "start_time": "289.72",
+                            "end_time": "290.18",
+                            "speaker_label": "spk_0",
+                            "content": "RESTRICTED"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

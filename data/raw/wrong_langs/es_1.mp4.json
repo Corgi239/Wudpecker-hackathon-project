@@ -1,0 +1,57 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "Super million is Where? Okay. No."
+      }
+    ],
+    "speaker_labels": {
+      "speakers": 1,
+      "segments": [
+        {
+          "start_time": "183.53",
+          "end_time": "299.76",
+          "speaker_label": "spk_0",
+          "items": [
+            {
+              "start_time": "183.53",
+              "end_time": "183.89",
+              "speaker_label": "spk_0",
+              "content": "Super"
+            },
+            {
+              "start_time": "183.89",
+              "end_time": "184.39",
+              "speaker_label": "spk_0",
+              "content": "million"
+            },
+            {
+              "start_time": "184.57",
+              "end_time": "185.07",
+              "speaker_label": "spk_0",
+              "content": "is"
+            },
+            {
+              "start_time": "192.73",
+              "end_time": "193.23",
+              "speaker_label": "spk_0",
+              "content": "Where?"
+            },
+            {
+              "start_time": "225.34",
+              "end_time": "225.84",
+              "speaker_label": "spk_0",
+              "content": "Okay."
+            },
+            {
+              "start_time": "299.26",
+              "end_time": "299.76",
+              "speaker_label": "spk_0",
+              "content": "No."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

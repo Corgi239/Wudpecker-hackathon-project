@@ -1,0 +1,201 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "Hi. You, you know, So stay. No no no there. Simpler there. YouTube channel. No. No. Hi. You, you know, YouTube. So no. Emit Yeah. Yeah. Yeah. Yeah. Otherwise, YouTube."
+      }
+    ],
+    "speaker_labels": {
+      "speakers": 1,
+      "segments": [
+        {
+          "start_time": "181.44",
+          "end_time": "1808.26",
+          "speaker_label": "spk_0",
+          "items": [
+            {
+              "start_time": "181.44",
+              "end_time": "181.94",
+              "speaker_label": "spk_0",
+              "content": "Hi."
+            },
+            {
+              "start_time": "202.89",
+              "end_time": "203.17",
+              "speaker_label": "spk_0",
+              "content": "You,"
+            },
+            {
+              "start_time": "203.17",
+              "end_time": "203.33",
+              "speaker_label": "spk_0",
+              "content": "you"
+            },
+            {
+              "start_time": "203.33",
+              "end_time": "203.73",
+              "speaker_label": "spk_0",
+              "content": "know,"
+            },
+            {
+              "start_time": "321.93",
+              "end_time": "322.13",
+              "speaker_label": "spk_0",
+              "content": "So"
+            },
+            {
+              "start_time": "322.13",
+              "end_time": "322.55",
+              "speaker_label": "spk_0",
+              "content": "stay."
+            },
+            {
+              "start_time": "346.73",
+              "end_time": "346.89",
+              "speaker_label": "spk_0",
+              "content": "No"
+            },
+            {
+              "start_time": "346.89",
+              "end_time": "347.01",
+              "speaker_label": "spk_0",
+              "content": "no"
+            },
+            {
+              "start_time": "347.01",
+              "end_time": "347.21",
+              "speaker_label": "spk_0",
+              "content": "no"
+            },
+            {
+              "start_time": "347.21",
+              "end_time": "347.64",
+              "speaker_label": "spk_0",
+              "content": "there."
+            },
+            {
+              "start_time": "355.15",
+              "end_time": "355.63",
+              "speaker_label": "spk_0",
+              "content": "Simpler"
+            },
+            {
+              "start_time": "355.63",
+              "end_time": "356.13",
+              "speaker_label": "spk_0",
+              "content": "there."
+            },
+            {
+              "start_time": "508.40",
+              "end_time": "508.90",
+              "speaker_label": "spk_0",
+              "content": "YouTube"
+            },
+            {
+              "start_time": "510.48",
+              "end_time": "510.98",
+              "speaker_label": "spk_0",
+              "content": "channel."
+            },
+            {
+              "start_time": "517.80",
+              "end_time": "518.00",
+              "speaker_label": "spk_0",
+              "content": "No."
+            },
+            {
+              "start_time": "518.00",
+              "end_time": "518.18",
+              "speaker_label": "spk_0",
+              "content": "No."
+            },
+            {
+              "start_time": "539.79",
+              "end_time": "540.29",
+              "speaker_label": "spk_0",
+              "content": "Hi."
+            },
+            {
+              "start_time": "743.75",
+              "end_time": "744.03",
+              "speaker_label": "spk_0",
+              "content": "You,"
+            },
+            {
+              "start_time": "744.03",
+              "end_time": "744.19",
+              "speaker_label": "spk_0",
+              "content": "you"
+            },
+            {
+              "start_time": "744.19",
+              "end_time": "744.62",
+              "speaker_label": "spk_0",
+              "content": "know,"
+            },
+            {
+              "start_time": "768.23",
+              "end_time": "768.73",
+              "speaker_label": "spk_0",
+              "content": "YouTube."
+            },
+            {
+              "start_time": "878.69",
+              "end_time": "878.93",
+              "speaker_label": "spk_0",
+              "content": "So"
+            },
+            {
+              "start_time": "878.93",
+              "end_time": "879.43",
+              "speaker_label": "spk_0",
+              "content": "no."
+            },
+            {
+              "start_time": "986.15",
+              "end_time": "986.65",
+              "speaker_label": "spk_0",
+              "content": "Emit"
+            },
+            {
+              "start_time": "1518.96",
+              "end_time": "1519.46",
+              "speaker_label": "spk_0",
+              "content": "Yeah."
+            },
+            {
+              "start_time": "1519.56",
+              "end_time": "1520.00",
+              "speaker_label": "spk_0",
+              "content": "Yeah."
+            },
+            {
+              "start_time": "1520.00",
+              "end_time": "1520.16",
+              "speaker_label": "spk_0",
+              "content": "Yeah."
+            },
+            {
+              "start_time": "1520.16",
+              "end_time": "1520.66",
+              "speaker_label": "spk_0",
+              "content": "Yeah."
+            },
+            {
+              "start_time": "1780.29",
+              "end_time": "1780.79",
+              "speaker_label": "spk_0",
+              "content": "Otherwise,"
+            },
+            {
+              "start_time": "1807.76",
+              "end_time": "1808.26",
+              "speaker_label": "spk_0",
+              "content": "YouTube."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
