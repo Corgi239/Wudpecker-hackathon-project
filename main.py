@@ -1,6 +1,6 @@
-'''
+"""
 This is the main file for the project.
-'''
+"""
 
 from src import logic
 

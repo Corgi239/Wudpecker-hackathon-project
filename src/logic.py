@@ -1,6 +1,10 @@
+"""
+Created functions for microservice
+"""
+
 import numpy as np
-import datetime
 
 
 def test_func():
+    """Initial test function"""
     return np.random.rand(1, 5)
