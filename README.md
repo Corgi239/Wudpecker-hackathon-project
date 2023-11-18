@@ -23,9 +23,21 @@ The steps for calculating the metric are roughly as follows:
 3. At testing time, we tokenize the text to be tested and similarly divide it into bigrams. Then, for each resulting bigram, we calculate the frequency of that bigram within the training corpus, compared to the frequencies of those bigram with the same first token. For instance, when if we encounter a bigram "fluffy dog" in the tested text, we will count how many times "fluffy dog" appears in the training corpus, and divide by the total appearance count of the word "fluffy" in that corpus. The resulting value represents the likelihood of the encountered bigram appearing given the training texts as a statistical model.
 4. Finally, we use the mean of the resulting ratios as the final score. 
 
-## Continuous Integration
+## Preliminary results
+
+The basic scoring method outlined above gives promising results on the provided sample data. The plot of the scores of the reserved test set of the verified transcripts and the scores of faulty transcript is provided below:
+
+![plot](reports/images/scoring_results.png)
+
+## Ideas for improvement
+
+As it stands, the scoring procedure is very basic. We believe that separation power of the score could be further improved by introducing additional text pre-processing steps (such as removing punctuation and stop-words). Considering tri-grams could also be beneficial.
+
+As for the code quality, there is certainly room for improvement. We ran into some time constraints and caffeine absorption rate limitations, and ended up skipping on the creation of automatic tests. Additionally, the API currently does not offer functionality for fitting the scorer on custom data.
+
+<!-- ## Continuous Integration
 
 We also provide Continuous Integration in `Makefile` and `.github/workflows/devops.yml`.
 
 The continuous integration can be used for linting, formatting, testing, container building and running, and finally, deploying
-to the desired platform.
+to the desired platform. -->
