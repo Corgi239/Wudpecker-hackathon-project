@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/Corgi239/Wudpecker-hackathon-project/actions/workflows/devops.yml/badge.svg)](https://github.com/Corgi239/Wudpecker-hackathon-project/actions/workflows/devops.yml)
+
 # Wudpecker-hackathon-project
 Text classification microservice prepared for the 2023 Wudpecker AI hackathon
 
