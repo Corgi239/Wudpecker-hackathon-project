@@ -15,8 +15,12 @@ lint:
 test:
 	#test command
 	python -m pytest -vv --cov=src test/*.py
-build:
+docker-build:
 	#build container command
+	# docker build -t deploy-ml-model .
+docker-run:
+	#run container command
+	# docker run -p 8080:8080 deploy-ml-model
 deploy:
 	#deploy command
-all: install format lint test build deploy
+all: install lint test format docker-build docker-run deploy

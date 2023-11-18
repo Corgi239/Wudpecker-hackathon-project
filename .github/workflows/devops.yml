@@ -33,3 +33,7 @@ jobs:
     - name: Format code
       run: |
         make format
+    
+    - name: Build Docker image
+      run: |
+        # make docker-build
