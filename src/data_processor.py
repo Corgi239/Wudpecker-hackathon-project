@@ -11,7 +11,6 @@ class DataProcessor:
         self.data_path = data_path
         self.data = self.__get_clean_data()
     
-    @property
     def get_data(self) -> pd.DataFrame:
         return self.data
     
