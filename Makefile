@@ -8,6 +8,8 @@ format:
 		black **/*.py
 lint:
 	#lint command
+	pylint *.py &&\
+		pylint **/*.py
 test:
 	#test command
 deploy:
