@@ -8,3 +8,4 @@ Text classification microservice prepared for the 2023 Wudpecker AI hackathon
 1. Create a Python virtual environment `python3 -m venv myenv`
 2. Create empty files for project structure: `Makefile`, `requirements.txt`, `main.py`, `Dockerfile`, `src/`
 3. Populate `Makefile`
+4. Set up continuous integration with Github Workflow: automatic linting, testing, formatting, building, etc
