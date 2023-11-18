@@ -32,4 +32,4 @@ jobs:
 
     - name: Format code
       run: |
-        # make format
+        make format

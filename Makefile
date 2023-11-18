@@ -4,6 +4,8 @@ install:
 		pip install -r requirements.txt
 format:
 	#format command
+	black *.py &&\
+		black **/*.py
 lint:
 	#lint command
 test:
