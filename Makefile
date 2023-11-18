@@ -1,3 +1,5 @@
+.PHONY: test
+
 install:
 	#install command
 	pip install --upgrade pip &&\
@@ -12,6 +14,7 @@ lint:
 		pylint **/*.py
 test:
 	#test command
+	python -m pytest -vv --cov=src test/*.py
 deploy:
 	#deploy command
 all: install format lint test deploy
