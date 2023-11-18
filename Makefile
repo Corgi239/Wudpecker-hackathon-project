@@ -10,11 +10,13 @@ format:
 		black **/*.py
 lint:
 	#lint command
-	pylint *.py &&\
-		pylint **/*.py
+	pylint --disable=C0114,C0115,C0116 *.py &&\
+		pylint --disable=C0114,C0115,C0116 **/*.py
 test:
 	#test command
 	python -m pytest -vv --cov=src test/*.py
+build:
+	#build container command
 deploy:
 	#deploy command
-all: install format lint test deploy
+all: install format lint test build deploy
